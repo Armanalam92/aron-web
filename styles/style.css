@@ -1,0 +1,42 @@
+*
+{
+    background-color: blueviolet;
+}
+
+.MC
+{
+    height: 600px;
+    background-color: blueviolet
+}
+
+.sc1:hover
+{
+    transform: scale(1.5);
+    box-shadow: 0 0 10px grey, 0 0 20px grey, 0 0 30px grey, 0 0 40px grey;
+}
+
+.sc2:hover
+{
+    transform: scale(1.5);
+    box-shadow: 0 0 10px grey, 0 0 20px grey, 0 0 30px grey, 0 0 40px grey;
+}
+
+.sc3:hover
+{
+    transform: scale(1.2);
+    transform-behaivour: smooth;
+    box-shadow: 0 0 10px grey, 0 0 20px grey, 0 0 30px grey, 0 0 40px grey;
+}
+
+.logo-withtext
+{
+    display: flex;
+}
+
+.righttext
+{
+    color: white;
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #fff;
+    margin-top: -240px;
+    margin-left: 40px;
+}
